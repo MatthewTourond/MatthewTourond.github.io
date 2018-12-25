@@ -6,11 +6,11 @@ layout: default
 
 ## Reddit: Text Generator
 
-
+A project where I try to explore the full data science process. I used Google's BigQuery to scrape 40 million rows of user data including usernames, comments, and the subreddit where the comment was posted. 
 
 ## Reddit: Data Mining User Information
 
-
+It's well known that companies routinely collect, analyze, and sell user data. Here I looked in to how much user information can be extracted inferred from public information on reddit.
 
 ## Kaggle Kernel: Titanic
 

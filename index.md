@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projects
+Projects
 ======
 ## Reddit: Text Generator
 
@@ -16,7 +16,7 @@ It's well known that companies routinely collect, analyze, and sell user data. H
 
 The Titanic competitiont is generally the first competition that new users complete as an introduction to data science. It is a prediction problem with a goal of predicting a binary variable, passenger survival, on the Titanic. This was the first data science related project I completed. I wrote a kernel which can be found here. 
 
-# School Projects
+School Projects
 ======
 ## Green Food Challenge App
 

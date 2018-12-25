@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **Projects**
+# **Projects:**
 
 
 ## Reddit: Text Generator

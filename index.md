@@ -18,4 +18,4 @@ The Titanic dataset is generally the first competition that new users complete a
 
 ## Green Food Challenge App
 
-A school project done for CMPT276, a software engineering course. The goal was to create an app that allowed users to track and share their carbon footprint with some social media functions. It consisted of three sprints and the requirements can be found here. 
+A school project done for a software engineering course. The goal was to create an app that allowed users to track and share their carbon footprint with some social media functions. It consisted of three sprints and the requirements can be found here. 

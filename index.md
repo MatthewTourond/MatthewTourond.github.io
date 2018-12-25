@@ -6,7 +6,7 @@ layout: default
 
 ## Reddit: Text Generator
 
-A project where I try to explore the full data science process from data acquisition to product. I used Google's BigQuery to scrape 40 million rows of user data including usernames, comments, and the subreddit where the comment was posted. I used a Markov chain to generate text using data from particular subreddits. Since comment data is typically a response to a post or another comment, it is more difficult to generate meaningful results.
+A project where I try to explore the full data science process from data acquisition to product. I used Google's BigQuery to scrape 40 million rows of user data including usernames, comments, and the subreddit where the comment was posted. Text was generated with a Markov chain using data from particular subreddits. Since comment data is typically a response to a post or another comment, it is more difficult to generate meaningful text.
 
 ## Reddit: Data Mining User Information
 

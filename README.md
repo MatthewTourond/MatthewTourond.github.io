@@ -13,11 +13,11 @@ It's well known that companies routinely collect, analyze, and sell user data. H
 
 ## Kaggle Kernel: Titanic
 
-The Titanic competition is generally the first knowledge compeition that new users complete as an introduction to data science. It is a prediction problem with a goal of predicting a binary variable, passenger survival, on the Titanic. This was the first data science related project I completed. I wrote a kernel which can be found [here](https://www.kaggle.com/mtourond/splitting-pclass-and-tuning-models). 
+The Titanic competition is generally the first knowledge competition that new users complete as an introduction to data science. It is a prediction problem with a goal of predicting a binary variable, passenger survival, on the Titanic. This was the first data science related project I completed. I wrote a kernel which can be found [here](https://www.kaggle.com/mtourond/splitting-pclass-and-tuning-models). 
 
 # **School Projects:**
 
 
 ## Green Food Challenge App
 
-An android app created for a software engineering course. The goal was to create an app that allowed users to track and share their carbon footprint with some social media functions. The project was completed in a group of 5 members using an Agile developement approach. We used git for version control and it was completed with 3 sprints over 6 weeks. Our app won best user interface and we achieved an overall 97% average score over our three iterations.
+An android app created for a software engineering course. The goal was to create an app that allowed users to track and share their carbon footprint with some social media functions. The project was completed in a group of 5 members using an Agile development approach. We used git for version control and it was completed with 3 sprints over 6 weeks. Our app won best user interface and we achieved an overall 97% average score over our three iterations.

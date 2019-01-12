@@ -1,6 +1,4 @@
-# MatthewTourond.github.io
-
-# **Personal Projects:**
+# Matthew Tourond's Project Repository
 
 ## Predicting Reddit User Locations
 ###### [nbviewer](https://nbviewer.jupyter.org/github/MatthewTourond/Predicting-Reddit-User-Location/blob/master/PredictingRedditUserLocation.ipynb) | [Github](https://github.com/MatthewTourond/Predicting-Reddit-User-Location/blob/master/PredictingRedditUserLocation.ipynb)

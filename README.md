@@ -3,7 +3,7 @@
 ### Predicting Reddit User Locations
 ###### [nbviewer](https://nbviewer.jupyter.org/github/MatthewTourond/Predicting-Reddit-User-Location/blob/master/PredictingRedditUserLocation.ipynb) | [Github](https://github.com/MatthewTourond/Predicting-Reddit-User-Location/blob/master/PredictingRedditUserLocation.ipynb)
 
-A project where I predict where a reddit user lives in the Americas with their comment activity. The data came from a BigQuery table of 70 million comments made in October 2018. A training set of users with known locations was created by labelling authors who made posts in regional subreddits as living in the Americas or not Americas. With a random forest, the location of 23000 users was correctly labeled with 85% accuracy.
+A project where I predict where a reddit user lives in the Americas with their comment activity. The data came from a BigQuery table of 70 million comments made in October 2018. A training set of users with known locations was created by labelling authors who made posts in regional subreddits as living in the Americas or not Americas. With a random forest, the location of 23000 users was correctly labeled with 85% accuracy. 
 
 ### Titanic Kaggle Kernel
 ###### [Kaggle](https://www.kaggle.com/mtourond/splitting-pclass-and-tuning-models) 

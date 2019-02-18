@@ -1,8 +1,8 @@
 ## **Personal Projects**
-### Detecting Reddit Bots
-###### [Github](https://github.com/MatthewTourond/Detecting-Reddit-Bots/blob/master/DetectingRedditBots.ipynb)
+### Reddit Bot Detector
+###### [Github](https://github.com/MatthewTourond/Reddit-Bot-Detector)
 
-There are many useful bots that exist on reddit, but there is no master list of bots that exist on the platform. Many of these bots write the same or very similar comments frequently and thus can be identified easily by many users. Using Natural Language Processing, the similarity of a user's comment history can be determined and may be used to identify potential bots. This is an ongoing/in progress project.
+There are many useful bots that exist on reddit, but there is no "master" list of bots that exist on the platform. Here, a Reddit bot was created to identify if users are bots by examining utilizing natural language processing. The bot uses several other indicators like the median reply time of the user, their comment rate, and most importantly their comment similarity which was measured using cosine similarity. 
 
 ### Predicting Reddit User Locations
 ###### [nbviewer](https://nbviewer.jupyter.org/github/MatthewTourond/Predicting-Reddit-User-Location/blob/master/PredictingRedditUserLocation.ipynb) | [Github](https://github.com/MatthewTourond/Predicting-Reddit-User-Location/blob/master/PredictingRedditUserLocation.ipynb)

@@ -2,7 +2,7 @@
 ### Reddit Bot Detector
 ###### [Github](https://github.com/MatthewTourond/Reddit-Bot-Detector)
 
-There are many useful bots that exist on reddit, but there is no "master" list of bots that exist on the platform. Here, a Reddit bot was created to identify if users are bots by examining utilizing natural language processing. The bot uses several indicators like the median reply time of the user, their comment rate, and most importantly their comment similarity which was measured using cosine similarity. The prediction algorithm was evaluated with the f1 metric. On a training set of 1200 users, 15% of which were bots, an f1 score of 97% was achieved.
+There are many useful bots that exist on reddit, but there is no "master" list of bots that exist on the platform. Here, a Reddit bot was created to identify if users are bots by examining utilizing natural language processing. The bot uses several indicators like the median reply time of the user, their comment rate, and most importantly their comment similarity which was measured using cosine similarity. The prediction algorithm was evaluated with the f1 metric. On a test set of 300 users, 20% of which were bots, an f1 score of 97% was achieved.
 
 ### Predicting Reddit User Locations
 ###### [nbviewer](https://nbviewer.jupyter.org/github/MatthewTourond/Predicting-Reddit-User-Location/blob/master/PredictingRedditUserLocation.ipynb) | [Github](https://github.com/MatthewTourond/Predicting-Reddit-User-Location/blob/master/PredictingRedditUserLocation.ipynb)

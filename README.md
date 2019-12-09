@@ -5,13 +5,15 @@
 
 Winning solution to CANSSI's National Case Studies Compeition. Came second out of 65 teams in the modelling portion of the competition and first place overall. 
 
-Team Name: Overfit the Private Leaderboard
+Team Name: Overfit the Private Leaderboard (Competed solo)
 
 [Competition Overview](https://www.kaggle.com/c/canssi-ncsc-ferry-delays/overview)
 
+The goal was to predict ferry delays in BC harbours using traffic, weather, and route information from BC Ferries. The competition involved 65 teams across Canada, ten of which where selected to compete in the national competition held at Simon Fraser University in Vancouver, BC. The national competition involved presenting to judges and explaining the methodology behind the team's approach.
+
 [Kaggle leaderboard](https://www.kaggle.com/c/canssi-ncsc-ferry-delays/leaderboard)
 
-[Long Presentation (2019-10-03)](https://www.youtube.com/watch?v=aOGnEHywIBc)
+[Long presentation at a local meetup (October 2019)](https://www.youtube.com/watch?v=aOGnEHywIBc)
 
 For more details refer to either the presentation or the github link.
 

@@ -1,9 +1,11 @@
-## **Personal Projects**
+## **Personal Projects and Competitions**
 
 ### CANSSI National Case Studies Competition
 ###### [Github](https://github.com/MatthewTourond/CANSSI-Case-Studies-Competition)
 
-Winning solution to CANSSI's National Case Studies Compeition. Came second out of 65 teams in the modelling portion of the competition and first place overall. 
+Winning solution to CANSSI's National Case Studies Compeition. The competition was broken up into three phases. An initial Kaggle competition which assessed model performance, followed by a regional competition where teams presented to a panel of judges, and a national competition held at Simon Fraser University in Vancouver, B.C. 
+
+I won both the national and B.C. regional competitions and was first place overall.
 
 Team Name: Overfit the Private Leaderboard (Competed solo)
 
@@ -15,7 +17,7 @@ The goal was to predict ferry delays in BC harbours using traffic, weather, and 
 
 [Long presentation at a local meetup (October 2019)](https://www.youtube.com/watch?v=aOGnEHywIBc)
 
-For more details refer to either the presentation or the github link.
+[Organizer Webpage](https://ssc.ca/en/publications/ssc-liaison/vol-33-6-december-2019/canssi-news-and-deadlines)
 
 ### Reddit Bot Detector
 ###### [Github](https://github.com/MatthewTourond/Reddit-Bot-Detector)
